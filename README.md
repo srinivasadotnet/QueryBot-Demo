@@ -16,3 +16,8 @@ dotnet build
 pwsh bin/Debug/net10.0/playwright.ps1 install chromium
 dotnet test
 ```
+
+## Videos
+| Folder | Video |
+|--------|-------|
+| `Video1/` | [Spec-driven test generation walkthrough](https://www.youtube.com/watch?v=H6dvGWsFUjs) |
