@@ -20,4 +20,4 @@ dotnet test
 ## Videos
 | Folder | Video |
 |--------|-------|
-| `Video1/` | [Spec-driven test generation walkthrough](https://www.youtube.com/watch?v=H6dvGWsFUjs) |
+| `Video1/` | [AI Writes the Test, Then Leaves | Zero-Token Playwright C# Demo](https://www.youtube.com/watch?v=H6dvGWsFUjs) |
